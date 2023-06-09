@@ -78,7 +78,6 @@
 
 <a href="https://ibb.co/TBg3K5k"><img src="https://i.ibb.co/C5HGJFz/6-1-1.png" alt="6-1-1" border="0"></a>
 <img src="https://i.ibb.co/DVQpkCx/1.png" alt="1" width="707" height="248" data-is360="0" data-load="full">
-<img src="https://i.ibb.co/JmJXjSY/6-1-2.png" alt="6-1-2" width="777" height="250" data-is360="0" data-load="full">
 
 
 Ответьте на следующие вопросы:
@@ -91,11 +90,14 @@
 
 *Приведите ответы в свободной форме.*
 
-1. В общем - ОС семейства Windows Server Datacenter и ОС Linux. В частности: 1. Windows Server 2012R2 Datacenter - Windows Server 2019 Datacenter; 2. Debian; 3. CentOS (Stream); 4. SLES (for SAP); 5. Fedora (CoreOS); 6. OpenSUSE; 7. AlmaLinux; 8. REDOS;
+1. Семейсто Linux:
+<img src="https://i.ibb.co/JmJXjSY/6-1-2.png" alt="6-1-2" width="777" height="250" data-is360="0" data-load="full">
 
-2. Процессор, Оперативная память, Дисковые накопители, Сетевые настройки;
+2. Процессор, Оперативная память, Дисковые накопители, Сетевые настройки:
+<img src="https://i.ibb.co/vHFp5Fr/6-1-3.png" alt="6-1-3" width="883" height="892" data-is360="0" data-load="full">
 
-3. На Cloud.Market в разделе инструменты для разработчика можно выбрать систему мониторинга Zabbix;
+3. В Мониторинге можно выбрать "Сервисные дашборды"
+<img src="https://i.ibb.co/r0zNJyw/6-1-4.png" alt="6-1-4" width="1149" height="476" data-is360="0" data-load="full">
 
 4. Защита от DDOS-атак, оплачиваемая за каждый очищенный гигабайт. Кроме этого, на Cloud.Market в разделе безопасность можно выбрать антивирусные продукты, межсетевые экраны и vpn-серверы;
 
