@@ -76,7 +76,7 @@
 
  *Приложите скриншоты.*
 
-<a href="https://i.ibb.co/GnSgQrZ/6-1-2.png" download="6-1-2.png" class="btn btn-download default" rel="tooltip" title="777 x 250 - PNG 16.1 KB"><span class="btn-icon icon-download"></span></a>
+<img src="https://i.ibb.co/JmJXjSY/6-1-2.png" alt="6-1-2" width="777" height="250" data-is360="0" data-load="full">
  <a href="https://ibb.co/CmwnSHN"><img src="https://i.ibb.co/pb13kLG/4-2.png" alt="4-2" border="0"></a>
 
 
