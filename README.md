@@ -76,8 +76,9 @@
 
  *Приложите скриншоты.*
 
+<a href="https://ibb.co/TBg3K5k"><img src="https://i.ibb.co/C5HGJFz/6-1-1.png" alt="6-1-1" border="0"></a>
+<img src="https://i.ibb.co/DVQpkCx/1.png" alt="1" width="707" height="248" data-is360="0" data-load="full">
 <img src="https://i.ibb.co/JmJXjSY/6-1-2.png" alt="6-1-2" width="777" height="250" data-is360="0" data-load="full">
- <a href="https://ibb.co/CmwnSHN"><img src="https://i.ibb.co/pb13kLG/4-2.png" alt="4-2" border="0"></a>
 
 
 Ответьте на следующие вопросы:
